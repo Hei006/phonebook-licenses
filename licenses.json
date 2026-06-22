@@ -1,0 +1,14 @@
+{
+  "clients": [
+    {
+      "clientId": "phonebook-bd-001",
+      "shopName": "PhoneBook BD",
+      "active": true,
+      "expiryDate": "2026-07-22",
+      "plan": "monthly",
+      "contactEmail": "phonebook@gmail.com",
+      "contactPhone": "01712-345678",
+      "note": "First client"
+    }
+  ]
+}
