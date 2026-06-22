@@ -2,13 +2,13 @@
   "clients": [
     {
       "clientId": "phonebook-bd-001",
-      "shopName": "PhoneBook BD",
+      "shopName": "Labony Smart Point",
       "active": true,
       "expiryDate": "2026-07-22",
       "plan": "monthly",
-      "contactEmail": "phonebook@gmail.com",
-      "contactPhone": "01712-345678",
-      "note": "First client"
+      "contactEmail": "parvezalamin2019@gmail.com",
+      "contactPhone": "01778-290992",
+      "note": "alamin mama"
     }
   ]
 }
