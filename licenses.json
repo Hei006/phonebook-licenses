@@ -1,7 +1,7 @@
 {
   "clients": [
     {
-      "clientId": "phonebook-bd-000",
+      "clientId": "phonebook-bd-001",
       "shopName": "Labony Smart Point",
       "active": true,
       "expiryDate": "2026-07-22",
